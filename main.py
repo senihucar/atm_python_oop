@@ -1,5 +1,4 @@
-# MUHAMMED SENIH UCAR
-# A01215761
+#SENIH UCAR
 import bankaccount
 
 if __name__ == "__main__":
